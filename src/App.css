@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  border: 2px solid salmon;
+  background-color: tomato;
+  margin: 10px;
+  border-radius: 15px;
+  color: white;
+  font-size: 32px;
+}
+
+.cart{
+  font-size: 38px;
+  background-color: burlywood;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 20px;
+}
